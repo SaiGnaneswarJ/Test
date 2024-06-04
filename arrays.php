@@ -45,6 +45,8 @@ $mul = array(
 
 print_r($mul);
 
+var_dump($mul);
+
 
 echo "<br><br>";
 
